@@ -1,0 +1,7 @@
+.conteudo{
+    border: 1px solid red; padding-top: 10px; width: 150; padding-right: 20px;
+    padding-bottom: 20px; padding-left: 20px; margin: 20px 20px 20px 20px;
+}
+.conteudo2{border: 1px solid red; width: 150; margin: 50px;}
+#noticia{background: #f9f9f9; padding: 10px; border: 1px solid gray;}
+h2{margin: 0px;}
